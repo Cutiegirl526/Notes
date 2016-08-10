@@ -1,0 +1,5 @@
+There is no spaces used when creating a file
+You can't use the underscore to create a file name
+Mkdir is used for making new folders
+Touch is to create a name then adding .txt to the end
+Cd../ is to leave out of the folder you're currently in
