@@ -3,3 +3,18 @@ You can't use the underscore to create a file name
 Mkdir is used for making new folders
 Touch is to create a name then adding .txt to the end
 Cd../ is to leave out of the folder you're currently in
+ls checks the folders
+git init is getting into the folder or file
+touch file in is creating a text document
+git add "...".txt adds to repositry
+git commit -m "..." is a message
+git status is looking at the status
+git push is cleaniing the files and uploading the file to the remote
+2 types of application enviorments are -desktop and -mobile
+Problem solver, creativity are two traits use ownership
+3 tools for web development
+		-git shell
+		-git huvb
+		-sublime text
+git and git hub were the devolping tools
+git init is initializing in a folder
