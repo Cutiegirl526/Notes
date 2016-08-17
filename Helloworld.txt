@@ -18,3 +18,14 @@ Problem solver, creativity are two traits use ownership
 		-sublime text
 git and git hub were the devolping tools
 git init is initializing in a folder
+ui- user interface: looking at the site
+ux- user experience:interaction between user and product
+
+			OFFICAL NOTES FROM TEACHER
+//My first Sublime Text file.
+
+CLI // Command Line Interface
+-means of interacting with computer in form of successive lines if text.
+
+GUI // Graphical User Interface
+-means of interacting with a computer using visual icons.
