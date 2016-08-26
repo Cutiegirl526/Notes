@@ -14,12 +14,14 @@ git push is cleaniing the files and uploading the file to the remote
 Problem solver, creativity are two traits use ownership
 3 tools for web development
 		-git shell
-		-git huvb
+		-git hub
 		-sublime text
 git and git hub were the devolping tools
 git init is initializing in a folder
 ui- user interface: looking at the site
 ux- user experience:interaction between user and product
+id = #first
+class = .container
 
 			OFFICAL NOTES FROM TEACHER
 //My first Sublime Text file.
