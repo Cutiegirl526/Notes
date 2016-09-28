@@ -21,7 +21,31 @@ git init is initializing in a folder
 ui- user interface: looking at the site
 ux- user experience:interaction between user and product
 id = #first
-class = .container
+class = .container  
+
+Responsive design - The interface ajusting to the scee size no matter the size of the screen
+
+Grid based design - Web design with grid content
+
+Media Queries - Break points
+	Common - Desktops, Mobiles, Tablet
+		Usually around 600 px
+Em - Used for font size
+
+Px - Static measurement
+	Px for non responsive design
+Em - Adjust to its parent
+	Em for responsive design
+	Em is unit of measure in CSS
+
+How to convert px to em - Multiply 1.5
+
+Pseudo Class Selector - Use to define a special state
+Common - Focus, hover
+
+Mobile Design - Web Design to fit a mobile scale
+Media Queries are needed
+Specificity in CSS - Specific in order if precense
 
 			OFFICAL NOTES FROM TEACHER
 //My first Sublime Text file.
