@@ -46,6 +46,9 @@ Common - Focus, hover
 Mobile Design - Web Design to fit a mobile scale
 Media Queries are needed
 Specificity in CSS - Specific in order if precense
+http://slides.com/ifang/javascriptbasics#/0/12
+jsbin.com
+
 
 			OFFICAL NOTES FROM TEACHER
 //My first Sublime Text file.
